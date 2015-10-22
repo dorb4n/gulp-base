@@ -1,0 +1,21 @@
+{
+  "name": "Dorban",
+  "version": "1.0.0",
+  "authors": [
+    "Dorban <stephan@dorban.org>"
+  ],
+  "description": "My basic bower requirements",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.8.3",
+    "normalize-css": "normalize.css#~3.0.3",
+    "bootstrap": "~3.3.5"
+  }
+}
